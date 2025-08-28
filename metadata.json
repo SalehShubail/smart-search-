@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Smart Search",
+  "description": "A simple web application that allows users to perform text-based searches using Google's Gemini API and export search results as a CSV file.",
+  "requestFramePermissions": []
+}
